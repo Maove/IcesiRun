@@ -14,7 +14,7 @@ Según el Manual de Identidad Visual Institucional de la Universidad ICESI ¿cu�
 ¿Quién es Álvaro Pachón?,El director de TIC’s,El director del programa de Ingeniería Telemática,Un profesor de Matemáticas,El director de Matemáticas,El director de TIC’s
 ¿Cómo se llama el rector de la Universidad?,Francisco Piedrahita,Armando Piedrahita,Gustavo Piedrahita,Carlos Piedrahita,Francisco Piedrahita
 ¿Por qué en las cocinetas de cada departamento ya no se sirve café en vasos desechables?,Seguramente para protegerlo de los estudiantes,Porque son muy costosos,Porque producirlos contamina el medio ambiente,Yo que sé, no tomo café,Seguramente para protegerlo de los estudiantes
-Pregunta17,opcion1,opcion2,opcion3,opcion4,opcion1
-Pregunta18,opcion1,opcion2,opcion3,opcion4,opcion1
-Pregunta19,opcion1,opcion2,opcion3,opcion4,opcion1
-Pregunta20,opcion1,opcion2,opcion3,opcion4,opcion1
+¿En qué piso del edificio C se encuentra el cubículo de impresiones?,3,2,4,1,3
+¿En qué edificio se encuentra ubicada la facultad de Ciencias Sociales?,Edificio A,Edificio F,Edificio C,No existe esa facultad,Edificio A
+¿En qué año se graduó la primera promoción del programa de Música Clásica?,Ese programa no existe,2005,1990,2011,Ese programa no existe
+¿Cuál de los siguientes NO es un profesor de tiempo completo?,Jesús Molina,Juan Manuel Madrid,Hendel Yaker,Gonzálo Llano,Jesus Molina
